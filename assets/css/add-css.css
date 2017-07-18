@@ -1,0 +1,22 @@
+.show-pass{position: absolute;
+			right: -30px;
+			top:6px;}
+
+.astrisk{
+	position: absolute;
+	right: 30px;
+	top: 10px;
+	color: red;
+	font-size: 25px;
+}            
+            
+.name {
+    display: block;
+    text-align: center;
+    padding: 0 10px;
+    line-height: 30px;
+    font-size: 18px;
+    color: #333;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
